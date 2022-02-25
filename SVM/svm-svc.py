@@ -89,3 +89,4 @@ def handwritingClassTest():
 
 if __name__ == '__main__':
 	handwritingClassTest()
+	print("end")
